@@ -1,22 +1,20 @@
-# 👋 Hello, I'm xzb1bs
+# 👋 Hello, I'm Beibars
 
-Welcome to my GitHub profile! I'm a passionate developer interested in building scalable applications and exploring new technologies.
+Welcome to my GitHub profile! I'm a developer interested in building scalable applications and exploring new technologies.
 
 ## 🛠️ Tech Stack
 
 **Frontend:**
 - Vue.js
 - React
-- TypeScript
-- JavaScript
+- Angular
 
 **Backend:**
 - Python
 - Django
-- Java
 
 **Databases:**
-- SQL
+- PostgreSQL
 
 ## 📚 Featured Projects
 
@@ -24,13 +22,13 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 A comprehensive TypeScript-based dashboard for AI tools management and analysis.
 
 ### 🎓 [Student Internship System](https://github.com/xzb1bs/Student-Internship-System)
-Vue.js application for managing student internship programs and placements.
+VueJS application for managing student internship programs and placements.
 
-### 🏢 [Company AI](https://github.com/xzb1bs/company_ai)
-Python-based AI solution for enterprise applications.
+### 🏢 [Haircut_that_you_wish](https://github.com/xzb1bs/BIS)
+VueJS and Django based application for people who wants to choose suitable haircut with usibg AI(not included yet).
 
 ### 🌐 [Project Web Dev](https://github.com/xzb1bs/Project-Web-Dev)
-Full-stack web development project built with Python.
+Full-stack web development project built with Python and AngularJS.
 
 ## 📊 My GitHub Stats
 
@@ -39,7 +37,6 @@ Full-stack web development project built with Python.
 ## 💡 What I'm interested in
 
 - Full-stack web development
-- AI and Machine Learning applications
 - Vue.js and React frameworks
 - Database design and optimization
 - Open source contributions
@@ -48,20 +45,16 @@ Full-stack web development project built with Python.
 
 Feel free to reach out if you want to collaborate or discuss tech:
 
-- 📧 Email: [Add your email]
-- 💼 LinkedIn: [Add your LinkedIn]
-- 🐦 Twitter: [Add your Twitter]
-- 💬 Telegram: [Add your Telegram]
+- 📧 Email: beibarssagidolla47@gmail.com / xzb1bs7@gmail.com
+- 💬 Telegram: @xzb1bs
 
 ## 🎯 Current Focus
 
 - Improving my full-stack development skills
 - Contributing to open source projects
-- Learning advanced Python and TypeScript patterns
-- Building production-ready applications
+- Learning advanced backend and frontend frameworks
 
 ---
 
 ⭐ If you like my work, feel free to star my repositories!
 
-**Happy Coding! 🚀**
