@@ -46,7 +46,7 @@ Full-stack web development project built with Python and AngularJS.
 Feel free to reach out if you want to collaborate or discuss tech:
 
 - 📧 Email: beibarssagidolla47@gmail.com / xzb1bs7@gmail.com
-- 💬 Telegram: @xzb1bs
+- 💬 Telegram: [@xzb1bs](https://t.me/xzb1bs)
 
 ## 🎯 Current Focus
 
