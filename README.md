@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a developer interested in building scalable applications and exploring new technologies.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjB1czh5Y3ZwZHFvemxka2N4bzYyOXVzNzVuZzBndDdwNWZ3M211OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" alt="Animation" width="600">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZleDIwbXNxZzFydjNrdTBjbXVrZmo5d2F5ZXNubTNxZHRiMHY0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ev8ZAGWX1Juw/giphy.gif" alt="Animation" width="600">
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +32,7 @@ VueJS and Django based application for people who wants to choose suitable hairc
 ### 🌐 [Project Web Dev](https://github.com/xzb1bs/Project-Web-Dev)
 Full-stack web development project built with Python and AngularJS.
 
-<img src="[https://example.com/animation.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZrYWI1eGcxZTd4ZG4wMTR0N2wxMWJkOWNhdjk0ZnRzdGtndndhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif)" alt="Animation" width="600">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZrYWI1eGcxZTd4ZG4wMTR0N2wxMWJkOWNhdjk0ZnRzdGtndndhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" alt="Animation" width="600">
 
 ## 📊 My GitHub Stats
 
