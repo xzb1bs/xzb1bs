@@ -34,16 +34,7 @@ Full-stack web development project built with Python and AngularJS.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xzb1bs&color=blue)
 
-## 💡 What I'm interested in
-
-- Full-stack web development
-- Vue.js and React frameworks
-- Database design and optimization
-- Open source contributions
-
 ## 📫 Get In Touch
-
-Feel free to reach out if you want to collaborate or discuss tech:
 
 - 📧 Email: beibarssagidolla47@gmail.com / xzb1bs7@gmail.com
 - 💬 Telegram: [@xzb1bs](https://t.me/xzb1bs)
