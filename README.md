@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a developer interested in building scalable applications and exploring new technologies.
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZleDIwbXNxZzFydjNrdTBjbXVrZmo5d2F5ZXNubTNxZHRiMHY0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1Ev8ZAGWX1Juw/giphy.gif" alt="Animation" width="600">
+
 ## 🛠️ Tech Stack
 
 **Frontend:**
